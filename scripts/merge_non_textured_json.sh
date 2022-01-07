@@ -1,0 +1,1 @@
+python merge_json_files.py --json_file_root /home/wsz/code/acronym/data/json_output/non_textured --json_file_dst /home/wsz/code/acronym/data/json_output --json_file_name poses_per_scene_of_non_textured_vhacd.json

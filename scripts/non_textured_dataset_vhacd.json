@@ -1,0 +1,2886 @@
+{
+    "3dnet_1015_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_1015/3dnet_1015_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_1029_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_1029/3dnet_1029_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_102_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_102/3dnet_102_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_1037_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_1037/3dnet_1037_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_1197_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_1197/3dnet_1197_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_167_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_167/3dnet_167_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_215_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_215/3dnet_215_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_21_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_21/3dnet_21_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_233_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_233/3dnet_233_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_248_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_248/3dnet_248_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_262_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_262/3dnet_262_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_334_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_334/3dnet_334_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_363_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_363/3dnet_363_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_380_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_380/3dnet_380_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_496_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_496/3dnet_496_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_62_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_62/3dnet_62_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_745_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_745/3dnet_745_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_964_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_964/3dnet_964_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "3dnet_972_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/3dnet/3dnet_972/3dnet_972_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "Ab_Wheel_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/Ab_Wheel/Ab_Wheel_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_103_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_103_full_smooth/BHAM_D_103_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_105_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_105_full_smooth/BHAM_D_105_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_110_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_110_full_smooth/BHAM_D_110_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_111_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_111_full_smooth/BHAM_D_111_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_112_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_112_full_smooth/BHAM_D_112_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_113_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_113_full_smooth/BHAM_D_113_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_117_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_117_full_smooth/BHAM_D_117_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_140_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_140_full_smooth/BHAM_D_140_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_146_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_146_full_smooth/BHAM_D_146_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_164_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_164_full_smooth/BHAM_D_164_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_165_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_165_full_smooth/BHAM_D_165_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_166_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_166_full_smooth/BHAM_D_166_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_168_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_168_full_smooth/BHAM_D_168_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_170_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_170_full_smooth/BHAM_D_170_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_184_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_184_full_smooth/BHAM_D_184_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_188_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_188_full_smooth/BHAM_D_188_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_190_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_190_full_smooth/BHAM_D_190_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_1_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_1_full_smooth/BHAM_D_1_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_211_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_211_full_smooth/BHAM_D_211_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_216_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_216_full_smooth/BHAM_D_216_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_21_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_21_full_smooth/BHAM_D_21_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_222_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_222_full_smooth/BHAM_D_222_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_230_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_230_full_smooth/BHAM_D_230_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_231_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_231_full_smooth/BHAM_D_231_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_233_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/D_233_full_smooth/BHAM_D_233_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_236_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_236_full_smooth/BHAM_D_236_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_238_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_238_full_smooth/BHAM_D_238_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_250_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_250_full_smooth/BHAM_D_250_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_26_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_26_full_smooth/BHAM_D_26_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_30_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_30_full_smooth/BHAM_D_30_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_34_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_34_full_smooth/BHAM_D_34_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_3_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_3_full_smooth/BHAM_D_3_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_40_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_40_full_smooth/BHAM_D_40_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_57_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_57_full_smooth/BHAM_D_57_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_59_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_59_full_smooth/BHAM_D_59_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_70_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_70_full_smooth/BHAM_D_70_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_73_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_73_full_smooth/BHAM_D_73_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_7_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_7_full_smooth/BHAM_D_7_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_92_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_92_full_smooth/BHAM_D_92_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_94_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_94_full_smooth/BHAM_D_94_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_98_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_98_full_smooth/BHAM_D_98_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "BHAM_D_9_full_smooth_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/BHAM/BHAM_D_9_full_smooth/BHAM_D_9_full_smooth_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "CatSitting_800_tex_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/CatSitting_800_tex/CatSitting_800_tex_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "Chair_BB_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/Chair_BB/Chair_BB_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "Clock2_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/Clock2/Clock2_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "CoffeeBox_800_tex_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/CoffeeBox_800_tex/CoffeeBox_800_tex_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "CokePlasticSmallGrasp_800_tex_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/CokePlasticSmallGrasp_800_tex/CokePlasticSmallGrasp_800_tex_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "Cricket_ball_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/Cricket_ball/Cricket_ball_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "Curry_800_tex_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/Curry_800_tex/Curry_800_tex_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "DanishHam_800_tex_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/DanishHam_800_tex/DanishHam_800_tex_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "Dog_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/Dog/Dog_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "Gear_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/Gear/Gear_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "HamburgerSauce_800_tex_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/HamburgerSauce_800_tex/HamburgerSauce_800_tex_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "LetterP_800_tex_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/LetterP_800_tex/LetterP_800_tex_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "Margarine_800_tex_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/Margarine_800_tex/Margarine_800_tex_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "Pony_800_tex_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/Pony_800_tex/Pony_800_tex_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "Pumpkin_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/Pumpkin/Pumpkin_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "Shampoo_Nivea_for_men_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/Shampoo_Nivea_for_men/Shampoo_Nivea_for_men_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "Toy_piggy_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/Toy_piggy/Toy_piggy_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "Wafflerolls_800_tex_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/Wafflerolls_800_tex/Wafflerolls_800_tex_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "Weight_24kg_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/Weight_24kg/Weight_24kg_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bar_clamp_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/bar_clamp/bar_clamp_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bear_stationery_box_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/bear_stationery_box/bear_stationery_box_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bear_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/bear/bear_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bench_0001_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/bench_0001/bench_0001_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_3m_high_tack_spray_adhesive_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_3m_high_tack_spray_adhesive_scaled/bigbird_3m_high_tack_spray_adhesive_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_band_aid_sheer_strips_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_band_aid_sheer_strips_scaled/bigbird_band_aid_sheer_strips_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_bumblebee_albacore_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_bumblebee_albacore_scaled/bigbird_bumblebee_albacore_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_campbells_chicken_noodle_soup_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_campbells_chicken_noodle_soup_scaled/bigbird_campbells_chicken_noodle_soup_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_campbells_soup_at_hand_creamy_tomato_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_campbells_soup_at_hand_creamy_tomato_scaled/bigbird_campbells_soup_at_hand_creamy_tomato_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_chewy_dipps_chocolate_chip_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_chewy_dipps_chocolate_chip_scaled/bigbird_chewy_dipps_chocolate_chip_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_cholula_chipotle_hot_sauce_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_cholula_chipotle_hot_sauce_scaled/bigbird_cholula_chipotle_hot_sauce_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_coffee_mate_french_vanilla_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_coffee_mate_french_vanilla_scaled/bigbird_coffee_mate_french_vanilla_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_colgate_cool_mint_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_colgate_cool_mint_scaled/bigbird_colgate_cool_mint_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_crayola_yellow_green_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_crayola_yellow_green_scaled/bigbird_crayola_yellow_green_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_crest_complete_minty_fresh_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_crest_complete_minty_fresh_scaled/bigbird_crest_complete_minty_fresh_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_crystal_hot_sauce_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_crystal_hot_sauce_scaled/bigbird_crystal_hot_sauce_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_cup_noodles_chicken_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_cup_noodles_chicken_scaled/bigbird_cup_noodles_chicken_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_dove_go_fresh_burst_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_dove_go_fresh_burst_scaled/bigbird_dove_go_fresh_burst_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_expo_marker_red_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_expo_marker_red_scaled/bigbird_expo_marker_red_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_haagen_dazs_cookie_dough_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_haagen_dazs_cookie_dough_scaled/bigbird_haagen_dazs_cookie_dough_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_hersheys_cocoa_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_hersheys_cocoa_scaled/bigbird_hersheys_cocoa_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_hunts_paste_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_hunts_paste_scaled/bigbird_hunts_paste_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_ikea_table_leg_blue_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_ikea_table_leg_blue_scaled/bigbird_ikea_table_leg_blue_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_krylon_crystal_clear_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_krylon_crystal_clear_scaled/bigbird_krylon_crystal_clear_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_mom_to_mom_butternut_squash_pear_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_mom_to_mom_butternut_squash_pear_scaled/bigbird_mom_to_mom_butternut_squash_pear_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_nice_honey_roasted_almonds_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_nice_honey_roasted_almonds_scaled/bigbird_nice_honey_roasted_almonds_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_pepto_bismol_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_pepto_bismol_scaled/bigbird_pepto_bismol_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_pop_tarts_strawberry_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_pop_tarts_strawberry_scaled/bigbird_pop_tarts_strawberry_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_red_cup_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_red_cup_scaled/bigbird_red_cup_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_softsoap_gold_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_softsoap_gold_scaled/bigbird_softsoap_gold_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_suave_sweet_guava_nectar_body_wash_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_suave_sweet_guava_nectar_body_wash_scaled/bigbird_suave_sweet_guava_nectar_body_wash_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_tapatio_hot_sauce_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_tapatio_hot_sauce_scaled/bigbird_tapatio_hot_sauce_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_v8_fusion_peach_mango_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_v8_fusion_peach_mango_scaled/bigbird_v8_fusion_peach_mango_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_vo5_split_ends_anti_breakage_shampoo_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_vo5_split_ends_anti_breakage_shampoo_scaled/bigbird_vo5_split_ends_anti_breakage_shampoo_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_vo5_tea_therapy_healthful_green_tea_smoothing_shampoo_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_vo5_tea_therapy_healthful_green_tea_smoothing_shampoo_scaled/bigbird_vo5_tea_therapy_healthful_green_tea_smoothing_shampoo_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_white_rain_sensations_apple_blossom_hydrating_body_wash_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_white_rain_sensations_apple_blossom_hydrating_body_wash_scaled/bigbird_white_rain_sensations_apple_blossom_hydrating_body_wash_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_white_rain_sensations_ocean_mist_hydrating_body_wash_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_white_rain_sensations_ocean_mist_hydrating_body_wash_scaled/bigbird_white_rain_sensations_ocean_mist_hydrating_body_wash_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bigbird_zilla_night_black_heat_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/bigbird/bigbird_zilla_night_black_heat_scaled/bigbird_zilla_night_black_heat_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "blue_moon_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/blue_moon/blue_moon_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bluesh_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/bluesh/bluesh_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "bowl_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/bowl/bowl_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "car3_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/car3/car3_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "cleanser_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/cleanser/cleanser_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "climbing_hold_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/climbing_hold/climbing_hold_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "cocacola1_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/cocacola1/cocacola1_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "conditioner_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/conditioner/conditioner_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "cow2_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/cow2/cow2_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "cow3_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/cow3/cow3_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "doraemon_bowl_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/doraemon_bowl/doraemon_bowl_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "doraemon_cup_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/doraemon_cup/doraemon_cup_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "drill_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/drill/drill_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "feng_tea_box_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/feng_tea_box/feng_tea_box_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_avocado_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_avocado_poisson_000_scaled/gd_avocado_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_avocado_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_avocado_poisson_001_scaled/gd_avocado_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_banana_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_banana_poisson_000_scaled/gd_banana_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_banana_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_banana_poisson_001_scaled/gd_banana_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_banana_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_banana_poisson_002_scaled/gd_banana_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_banana_poisson_005_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_banana_poisson_005_scaled/gd_banana_poisson_005_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_binder_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_binder_poisson_000_scaled/gd_binder_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_binder_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_binder_poisson_004_scaled/gd_binder_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_bottle_new_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_bottle_new_poisson_000_scaled/gd_bottle_new_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_bowling_pin_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_bowling_pin_poisson_000_scaled/gd_bowling_pin_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_camera_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_camera_poisson_000_scaled/gd_camera_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_camera_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_camera_poisson_002_scaled/gd_camera_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_camera_poisson_003_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_camera_poisson_003_scaled/gd_camera_poisson_003_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_camera_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_camera_poisson_004_scaled/gd_camera_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_camera_poisson_006_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_camera_poisson_006_scaled/gd_camera_poisson_006_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_camera_poisson_007_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_camera_poisson_007_scaled/gd_camera_poisson_007_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_camera_poisson_010_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_camera_poisson_010_scaled/gd_camera_poisson_010_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_camera_poisson_011_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_camera_poisson_011_scaled/gd_camera_poisson_011_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_camera_poisson_012_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_camera_poisson_012_scaled/gd_camera_poisson_012_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_camera_poisson_013_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_camera_poisson_013_scaled/gd_camera_poisson_013_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_camera_poisson_014_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_camera_poisson_014_scaled/gd_camera_poisson_014_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_camera_poisson_019_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_camera_poisson_019_scaled/gd_camera_poisson_019_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_can_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_can_poisson_002_scaled/gd_can_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_can_poisson_007_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_can_poisson_007_scaled/gd_can_poisson_007_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_can_poisson_010_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_can_poisson_010_scaled/gd_can_poisson_010_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_champagne_glass_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_champagne_glass_poisson_001_scaled/gd_champagne_glass_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_croissant_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_croissant_poisson_000_scaled/gd_croissant_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_cucumber_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_cucumber_poisson_000_scaled/gd_cucumber_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_detergent_bottle_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_detergent_bottle_poisson_001_scaled/gd_detergent_bottle_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_detergent_bottle_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_detergent_bottle_poisson_002_scaled/gd_detergent_bottle_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_detergent_bottle_poisson_003_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_detergent_bottle_poisson_003_scaled/gd_detergent_bottle_poisson_003_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_detergent_bottle_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_detergent_bottle_poisson_004_scaled/gd_detergent_bottle_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_detergent_bottle_poisson_006_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_detergent_bottle_poisson_006_scaled/gd_detergent_bottle_poisson_006_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_detergent_bottle_poisson_007_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_detergent_bottle_poisson_007_scaled/gd_detergent_bottle_poisson_007_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_donut_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_donut_poisson_000_scaled/gd_donut_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_donut_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_donut_poisson_001_scaled/gd_donut_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_donut_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_donut_poisson_002_scaled/gd_donut_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_donut_poisson_003_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_donut_poisson_003_scaled/gd_donut_poisson_003_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_donut_poisson_006_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_donut_poisson_006_scaled/gd_donut_poisson_006_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_drill_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_drill_poisson_000_scaled/gd_drill_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_dumpbell_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_dumpbell_poisson_000_scaled/gd_dumpbell_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_dumpbell_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_dumpbell_poisson_001_scaled/gd_dumpbell_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_egg_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_egg_poisson_000_scaled/gd_egg_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_egg_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_egg_poisson_004_scaled/gd_egg_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_egg_poisson_005_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_egg_poisson_005_scaled/gd_egg_poisson_005_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_figurine_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_figurine_poisson_004_scaled/gd_figurine_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_figurine_poisson_005_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_figurine_poisson_005_scaled/gd_figurine_poisson_005_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_flashlight_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_flashlight_poisson_000_scaled/gd_flashlight_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_flashlight_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_flashlight_poisson_002_scaled/gd_flashlight_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_flashlight_poisson_003_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_flashlight_poisson_003_scaled/gd_flashlight_poisson_003_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_flashlight_poisson_005_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_flashlight_poisson_005_scaled/gd_flashlight_poisson_005_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_flashlight_poisson_007_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_flashlight_poisson_007_scaled/gd_flashlight_poisson_007_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_flashlight_poisson_008_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_flashlight_poisson_008_scaled/gd_flashlight_poisson_008_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_flashlight_poisson_009_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_flashlight_poisson_009_scaled/gd_flashlight_poisson_009_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_flashlight_poisson_013_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_flashlight_poisson_013_scaled/gd_flashlight_poisson_013_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_flashlight_poisson_014_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_flashlight_poisson_014_scaled/gd_flashlight_poisson_014_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_002_scaled/gd_hammer_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_004_scaled/gd_hammer_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_005_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_005_scaled/gd_hammer_poisson_005_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_006_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_006_scaled/gd_hammer_poisson_006_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_008_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_008_scaled/gd_hammer_poisson_008_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_009_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_009_scaled/gd_hammer_poisson_009_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_011_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_011_scaled/gd_hammer_poisson_011_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_012_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_012_scaled/gd_hammer_poisson_012_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_013_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_013_scaled/gd_hammer_poisson_013_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_015_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_015_scaled/gd_hammer_poisson_015_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_016_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_016_scaled/gd_hammer_poisson_016_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_017_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_017_scaled/gd_hammer_poisson_017_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_018_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_018_scaled/gd_hammer_poisson_018_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_020_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_020_scaled/gd_hammer_poisson_020_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_024_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_024_scaled/gd_hammer_poisson_024_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_027_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_027_scaled/gd_hammer_poisson_027_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_029_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_029_scaled/gd_hammer_poisson_029_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_031_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_031_scaled/gd_hammer_poisson_031_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_034_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_034_scaled/gd_hammer_poisson_034_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_hammer_poisson_035_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_hammer_poisson_035_scaled/gd_hammer_poisson_035_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_000_scaled/gd_jar_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_001_scaled/gd_jar_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_002_scaled/gd_jar_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_003_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_003_scaled/gd_jar_poisson_003_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_004_scaled/gd_jar_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_005_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_005_scaled/gd_jar_poisson_005_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_006_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_006_scaled/gd_jar_poisson_006_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_008_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_008_scaled/gd_jar_poisson_008_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_010_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_010_scaled/gd_jar_poisson_010_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_011_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_011_scaled/gd_jar_poisson_011_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_012_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_012_scaled/gd_jar_poisson_012_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_013_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_013_scaled/gd_jar_poisson_013_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_014_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_014_scaled/gd_jar_poisson_014_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_015_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_015_scaled/gd_jar_poisson_015_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_016_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_016_scaled/gd_jar_poisson_016_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_021_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_021_scaled/gd_jar_poisson_021_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_022_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_022_scaled/gd_jar_poisson_022_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_023_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_023_scaled/gd_jar_poisson_023_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_jar_poisson_024_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_jar_poisson_024_scaled/gd_jar_poisson_024_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_kettle_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_kettle_poisson_000_scaled/gd_kettle_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_kettle_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_kettle_poisson_004_scaled/gd_kettle_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_kettle_poisson_005_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_kettle_poisson_005_scaled/gd_kettle_poisson_005_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_kettle_poisson_006_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_kettle_poisson_006_scaled/gd_kettle_poisson_006_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_kettle_poisson_008_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_kettle_poisson_008_scaled/gd_kettle_poisson_008_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_lemon_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_lemon_poisson_000_scaled/gd_lemon_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_lemon_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_lemon_poisson_004_scaled/gd_lemon_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_light_bulb_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_light_bulb_poisson_000_scaled/gd_light_bulb_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_light_bulb_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_light_bulb_poisson_001_scaled/gd_light_bulb_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_light_bulb_poisson_003_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_light_bulb_poisson_003_scaled/gd_light_bulb_poisson_003_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_light_bulb_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_light_bulb_poisson_004_scaled/gd_light_bulb_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_light_bulb_poisson_005_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_light_bulb_poisson_005_scaled/gd_light_bulb_poisson_005_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_light_bulb_poisson_006_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_light_bulb_poisson_006_scaled/gd_light_bulb_poisson_006_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_light_bulb_poisson_007_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_light_bulb_poisson_007_scaled/gd_light_bulb_poisson_007_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_light_bulb_poisson_008_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_light_bulb_poisson_008_scaled/gd_light_bulb_poisson_008_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_light_bulb_poisson_009_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_light_bulb_poisson_009_scaled/gd_light_bulb_poisson_009_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_light_bulb_poisson_010_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_light_bulb_poisson_010_scaled/gd_light_bulb_poisson_010_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_light_bulb_poisson_011_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_light_bulb_poisson_011_scaled/gd_light_bulb_poisson_011_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_mushroom_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_mushroom_poisson_000_scaled/gd_mushroom_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_mushroom_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_mushroom_poisson_002_scaled/gd_mushroom_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_mushroom_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_mushroom_poisson_004_scaled/gd_mushroom_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_mushroom_poisson_005_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_mushroom_poisson_005_scaled/gd_mushroom_poisson_005_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_mushroom_poisson_006_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_mushroom_poisson_006_scaled/gd_mushroom_poisson_006_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_mushroom_poisson_007_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_mushroom_poisson_007_scaled/gd_mushroom_poisson_007_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_mushroom_poisson_008_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_mushroom_poisson_008_scaled/gd_mushroom_poisson_008_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_mushroom_poisson_010_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_mushroom_poisson_010_scaled/gd_mushroom_poisson_010_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_mushroom_poisson_011_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_mushroom_poisson_011_scaled/gd_mushroom_poisson_011_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_mushroom_poisson_012_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_mushroom_poisson_012_scaled/gd_mushroom_poisson_012_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_mushroom_poisson_013_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_mushroom_poisson_013_scaled/gd_mushroom_poisson_013_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_mushroom_poisson_014_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_mushroom_poisson_014_scaled/gd_mushroom_poisson_014_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_orange_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_orange_poisson_000_scaled/gd_orange_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_orange_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_orange_poisson_001_scaled/gd_orange_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pan_poisson_017_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pan_poisson_017_scaled/gd_pan_poisson_017_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pitcher_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pitcher_poisson_000_scaled/gd_pitcher_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pitcher_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pitcher_poisson_001_scaled/gd_pitcher_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pitcher_poisson_003_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pitcher_poisson_003_scaled/gd_pitcher_poisson_003_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pitcher_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pitcher_poisson_004_scaled/gd_pitcher_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pitcher_poisson_005_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pitcher_poisson_005_scaled/gd_pitcher_poisson_005_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pliers_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pliers_poisson_000_scaled/gd_pliers_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pliers_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pliers_poisson_002_scaled/gd_pliers_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pliers_poisson_003_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pliers_poisson_003_scaled/gd_pliers_poisson_003_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pliers_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pliers_poisson_004_scaled/gd_pliers_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pliers_poisson_010_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pliers_poisson_010_scaled/gd_pliers_poisson_010_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pliers_poisson_012_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pliers_poisson_012_scaled/gd_pliers_poisson_012_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pliers_poisson_014_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pliers_poisson_014_scaled/gd_pliers_poisson_014_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pliers_poisson_015_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pliers_poisson_015_scaled/gd_pliers_poisson_015_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pliers_poisson_017_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pliers_poisson_017_scaled/gd_pliers_poisson_017_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pot_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pot_poisson_001_scaled/gd_pot_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pot_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pot_poisson_004_scaled/gd_pot_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_pumpkin_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_pumpkin_poisson_000_scaled/gd_pumpkin_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_rubber_duck_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_rubber_duck_poisson_000_scaled/gd_rubber_duck_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_rubber_duck_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_rubber_duck_poisson_001_scaled/gd_rubber_duck_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_rubber_duck_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_rubber_duck_poisson_002_scaled/gd_rubber_duck_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_rubik_cube_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_rubik_cube_poisson_004_scaled/gd_rubik_cube_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_rubik_cube_poisson_005_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_rubik_cube_poisson_005_scaled/gd_rubik_cube_poisson_005_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_saucepan_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_saucepan_poisson_000_scaled/gd_saucepan_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_screwdriver_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_screwdriver_poisson_000_scaled/gd_screwdriver_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_screwdriver_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_screwdriver_poisson_002_scaled/gd_screwdriver_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_screwdriver_poisson_003_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_screwdriver_poisson_003_scaled/gd_screwdriver_poisson_003_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_screwdriver_poisson_006_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_screwdriver_poisson_006_scaled/gd_screwdriver_poisson_006_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_screwdriver_poisson_009_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_screwdriver_poisson_009_scaled/gd_screwdriver_poisson_009_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_screwdriver_poisson_011_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_screwdriver_poisson_011_scaled/gd_screwdriver_poisson_011_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_screwdriver_poisson_013_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_screwdriver_poisson_013_scaled/gd_screwdriver_poisson_013_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_screwdriver_poisson_016_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_screwdriver_poisson_016_scaled/gd_screwdriver_poisson_016_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_screwdriver_poisson_019_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_screwdriver_poisson_019_scaled/gd_screwdriver_poisson_019_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_screwdriver_poisson_020_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_screwdriver_poisson_020_scaled/gd_screwdriver_poisson_020_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_screwdriver_poisson_021_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_screwdriver_poisson_021_scaled/gd_screwdriver_poisson_021_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_screwdriver_poisson_023_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_screwdriver_poisson_023_scaled/gd_screwdriver_poisson_023_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_screwdriver_poisson_024_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_screwdriver_poisson_024_scaled/gd_screwdriver_poisson_024_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_shampoo_new_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_shampoo_new_poisson_000_scaled/gd_shampoo_new_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_shampoo_new_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_shampoo_new_poisson_001_scaled/gd_shampoo_new_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_shampoo_new_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_shampoo_new_poisson_002_scaled/gd_shampoo_new_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_shampoo_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_shampoo_poisson_001_scaled/gd_shampoo_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_spatula_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_spatula_poisson_001_scaled/gd_spatula_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_spatula_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_spatula_poisson_002_scaled/gd_spatula_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_spray_bottle_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_spray_bottle_poisson_000_scaled/gd_spray_bottle_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_spray_bottle_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_spray_bottle_poisson_002_scaled/gd_spray_bottle_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_spray_bottle_poisson_003_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_spray_bottle_poisson_003_scaled/gd_spray_bottle_poisson_003_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_spray_can_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_spray_can_poisson_000_scaled/gd_spray_can_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_spray_can_poisson_003_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_spray_can_poisson_003_scaled/gd_spray_can_poisson_003_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_spray_can_poisson_005_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_spray_can_poisson_005_scaled/gd_spray_can_poisson_005_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_squash_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_squash_poisson_000_scaled/gd_squash_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_stapler_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_stapler_poisson_000_scaled/gd_stapler_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_stapler_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_stapler_poisson_002_scaled/gd_stapler_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_stapler_poisson_003_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_stapler_poisson_003_scaled/gd_stapler_poisson_003_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_stapler_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_stapler_poisson_004_scaled/gd_stapler_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_stapler_poisson_007_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_stapler_poisson_007_scaled/gd_stapler_poisson_007_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_stapler_poisson_008_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_stapler_poisson_008_scaled/gd_stapler_poisson_008_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_stapler_poisson_010_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_stapler_poisson_010_scaled/gd_stapler_poisson_010_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_stapler_poisson_011_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_stapler_poisson_011_scaled/gd_stapler_poisson_011_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_stapler_poisson_012_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_stapler_poisson_012_scaled/gd_stapler_poisson_012_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_stapler_poisson_017_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_stapler_poisson_017_scaled/gd_stapler_poisson_017_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_stapler_poisson_018_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_stapler_poisson_018_scaled/gd_stapler_poisson_018_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_stapler_poisson_022_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_stapler_poisson_022_scaled/gd_stapler_poisson_022_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_stapler_poisson_024_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_stapler_poisson_024_scaled/gd_stapler_poisson_024_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_stapler_poisson_028_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_stapler_poisson_028_scaled/gd_stapler_poisson_028_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_starfruit_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_starfruit_poisson_000_scaled/gd_starfruit_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_starfruit_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_starfruit_poisson_002_scaled/gd_starfruit_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_sweet_corn_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_sweet_corn_poisson_000_scaled/gd_sweet_corn_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_tape_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_tape_poisson_000_scaled/gd_tape_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_tape_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_tape_poisson_002_scaled/gd_tape_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_tape_poisson_003_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_tape_poisson_003_scaled/gd_tape_poisson_003_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_tape_poisson_005_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_tape_poisson_005_scaled/gd_tape_poisson_005_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_tetra_pak_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_tetra_pak_poisson_000_scaled/gd_tetra_pak_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_tetra_pak_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_tetra_pak_poisson_001_scaled/gd_tetra_pak_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_tetra_pak_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_tetra_pak_poisson_002_scaled/gd_tetra_pak_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_tetra_pak_poisson_006_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_tetra_pak_poisson_006_scaled/gd_tetra_pak_poisson_006_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_tetra_pak_poisson_007_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_tetra_pak_poisson_007_scaled/gd_tetra_pak_poisson_007_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_tetra_pak_poisson_010_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_tetra_pak_poisson_010_scaled/gd_tetra_pak_poisson_010_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_tetra_pak_poisson_015_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_tetra_pak_poisson_015_scaled/gd_tetra_pak_poisson_015_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_tetra_pak_poisson_019_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_tetra_pak_poisson_019_scaled/gd_tetra_pak_poisson_019_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_tetra_pak_poisson_021_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_tetra_pak_poisson_021_scaled/gd_tetra_pak_poisson_021_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_tetra_pak_poisson_022_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_tetra_pak_poisson_022_scaled/gd_tetra_pak_poisson_022_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toaster_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toaster_poisson_000_scaled/gd_toaster_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toaster_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toaster_poisson_001_scaled/gd_toaster_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toaster_poisson_002_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toaster_poisson_002_scaled/gd_toaster_poisson_002_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toaster_poisson_005_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toaster_poisson_005_scaled/gd_toaster_poisson_005_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toaster_poisson_006_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toaster_poisson_006_scaled/gd_toaster_poisson_006_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toaster_poisson_007_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toaster_poisson_007_scaled/gd_toaster_poisson_007_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toaster_poisson_009_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toaster_poisson_009_scaled/gd_toaster_poisson_009_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toaster_poisson_010_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toaster_poisson_010_scaled/gd_toaster_poisson_010_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toilet_paper_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toilet_paper_poisson_000_scaled/gd_toilet_paper_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toilet_paper_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toilet_paper_poisson_004_scaled/gd_toilet_paper_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toilet_paper_poisson_007_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toilet_paper_poisson_007_scaled/gd_toilet_paper_poisson_007_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_tomato_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_tomato_poisson_000_scaled/gd_tomato_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toothpaste_tube_poisson_003_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toothpaste_tube_poisson_003_scaled/gd_toothpaste_tube_poisson_003_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toy_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toy_poisson_001_scaled/gd_toy_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toy_poisson_003_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toy_poisson_003_scaled/gd_toy_poisson_003_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toy_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toy_poisson_004_scaled/gd_toy_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toy_poisson_005_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toy_poisson_005_scaled/gd_toy_poisson_005_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toy_poisson_006_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toy_poisson_006_scaled/gd_toy_poisson_006_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toy_poisson_008_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toy_poisson_008_scaled/gd_toy_poisson_008_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toy_poisson_016_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toy_poisson_016_scaled/gd_toy_poisson_016_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toy_poisson_022_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toy_poisson_022_scaled/gd_toy_poisson_022_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toy_poisson_024_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toy_poisson_024_scaled/gd_toy_poisson_024_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_toy_poisson_025_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_toy_poisson_025_scaled/gd_toy_poisson_025_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_vase_poisson_004_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_vase_poisson_004_scaled/gd_vase_poisson_004_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_watering_can_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_watering_can_poisson_001_scaled/gd_watering_can_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_watering_can_poisson_003_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_watering_can_poisson_003_scaled/gd_watering_can_poisson_003_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_watermelon_poisson_000_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_watermelon_poisson_000_scaled/gd_watermelon_poisson_000_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gd_zucchini_poisson_001_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/gd/gd_zucchini_poisson_001_scaled/gd_zucchini_poisson_001_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "gelatin_box_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/gelatin_box/gelatin_box_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "green_arrow_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/green_arrow/green_arrow_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_models_obj_000011_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000011/hb_models_obj_000011_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_models_obj_000012_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000012/hb_models_obj_000012_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_models_obj_000015_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000015/hb_models_obj_000015_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_models_obj_000016_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000016/hb_models_obj_000016_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_models_obj_000018_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000018/hb_models_obj_000018_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_models_obj_000019_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000019/hb_models_obj_000019_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_models_obj_000020_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000020/hb_models_obj_000020_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_models_obj_000022_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000022/hb_models_obj_000022_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_models_obj_000025_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000025/hb_models_obj_000025_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_models_obj_000026_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000026/hb_models_obj_000026_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_models_obj_000027_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000027/hb_models_obj_000027_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_models_obj_000030_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000030/hb_models_obj_000030_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_models_obj_000031_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000031/hb_models_obj_000031_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_models_obj_000032_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000032/hb_models_obj_000032_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000001_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000001/hb_obj_000001_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000002_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000002/hb_obj_000002_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000003_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000003/hb_obj_000003_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000004_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000004/hb_obj_000004_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000005_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000005/hb_obj_000005_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000006_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000006/hb_obj_000006_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000007_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000007/hb_obj_000007_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000008_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000008/hb_obj_000008_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000009_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000009/hb_obj_000009_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000010_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000010/hb_obj_000010_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000011_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000011/hb_obj_000011_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000012_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000012/hb_obj_000012_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000013_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000013/hb_obj_000013_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000014_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000014/hb_obj_000014_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000015_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000015/hb_obj_000015_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000016_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000016/hb_obj_000016_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000017_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000017/hb_obj_000017_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000018_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000018/hb_obj_000018_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000019_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000019/hb_obj_000019_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000020_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000020/hb_obj_000020_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000021_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000021/hb_obj_000021_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000022_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000022/hb_obj_000022_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000023_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000023/hb_obj_000023_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000024_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000024/hb_obj_000024_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000025_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000025/hb_obj_000025_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000026_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000026/hb_obj_000026_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000027_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000027/hb_obj_000027_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000028_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000028/hb_obj_000028_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000029_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000029/hb_obj_000029_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000030_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000030/hb_obj_000030_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000031_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000031/hb_obj_000031_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000032_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000032/hb_obj_000032_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hb_obj_000033_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hb/hb_obj_000033/hb_obj_000033_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hello_kitty_bowl_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/hello_kitty_bowl/hello_kitty_bowl_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hello_kitty_cup_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/hello_kitty_cup/hello_kitty_cup_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hny_toys_3_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/hny_toys_3/hny_toys_3_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hny_toys_4_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/hny_toys_4/hny_toys_4_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hole_box_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/hole_box/hole_box_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_AlphabetSoup_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_AlphabetSoup/hope_AlphabetSoup_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_BBQSauce_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_BBQSauce/hope_BBQSauce_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_Butter_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_Butter/hope_Butter_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_Cherries_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_Cherries/hope_Cherries_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_ChocolatePudding_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_ChocolatePudding/hope_ChocolatePudding_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_Cookies_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_Cookies/hope_Cookies_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_Corn_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_Corn/hope_Corn_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_CreamCheese_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_CreamCheese/hope_CreamCheese_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_GranolaBars_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_GranolaBars/hope_GranolaBars_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_GreenBeans_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_GreenBeans/hope_GreenBeans_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_Ketchup_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_Ketchup/hope_Ketchup_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_MacaroniAndCheese_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_MacaroniAndCheese/hope_MacaroniAndCheese_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_Milk_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_Milk/hope_Milk_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_Mushrooms_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_Mushrooms/hope_Mushrooms_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_Mustard_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_Mustard/hope_Mustard_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_OrangeJuice_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_OrangeJuice/hope_OrangeJuice_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_Parmesan_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_Parmesan/hope_Parmesan_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_Peaches_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_Peaches/hope_Peaches_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_PeasAndCarrots_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_PeasAndCarrots/hope_PeasAndCarrots_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_Pineapple_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_Pineapple/hope_Pineapple_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_Popcorn_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_Popcorn/hope_Popcorn_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_Raisins_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_Raisins/hope_Raisins_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_Spaghetti_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_Spaghetti/hope_Spaghetti_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_TomatoSauce_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_TomatoSauce/hope_TomatoSauce_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_Tuna_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_Tuna/hope_Tuna_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "hope_Yogurt_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/hope/hope_Yogurt/hope_Yogurt_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "icbin_models_obj_000001_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/icbin/icbin_obj_000001/icbin_models_obj_000001_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "icbin_models_obj_000002_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/icbin/icbin_obj_000002/icbin_models_obj_000002_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "icbin_obj_000001_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/icbin/icbin_obj_000001/icbin_obj_000001_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "icbin_obj_000002_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/icbin/icbin_obj_000002/icbin_obj_000002_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "icmi_obj_000001_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/icmi/icmi_obj_000001/icmi_obj_000001_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "icmi_obj_000002_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/icmi/icmi_obj_000002/icmi_obj_000002_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "icmi_obj_000003_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/icmi/icmi_obj_000003/icmi_obj_000003_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "icmi_obj_000004_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/icmi/icmi_obj_000004/icmi_obj_000004_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "icmi_obj_000005_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/icmi/icmi_obj_000005/icmi_obj_000005_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "icmi_obj_000006_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/icmi/icmi_obj_000006/icmi_obj_000006_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000001_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000001/itodd_obj_000001_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000002_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000002/itodd_obj_000002_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000003_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000003/itodd_obj_000003_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000004_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000004/itodd_obj_000004_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000005_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000005/itodd_obj_000005_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000006_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000006/itodd_obj_000006_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000007_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000007/itodd_obj_000007_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000008_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000008/itodd_obj_000008_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000009_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000009/itodd_obj_000009_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000010_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000010/itodd_obj_000010_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000011_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000011/itodd_obj_000011_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000012_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000012/itodd_obj_000012_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000013_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000013/itodd_obj_000013_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000014_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000014/itodd_obj_000014_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000015_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000015/itodd_obj_000015_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000016_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000016/itodd_obj_000016_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000017_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000017/itodd_obj_000017_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000018_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000018/itodd_obj_000018_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000019_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000019/itodd_obj_000019_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000020_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000020/itodd_obj_000020_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000021_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000021/itodd_obj_000021_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000022_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000022/itodd_obj_000022_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000023_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000023/itodd_obj_000023_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000024_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000024/itodd_obj_000024_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000025_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000025/itodd_obj_000025_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000026_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000026/itodd_obj_000026_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000027_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000027/itodd_obj_000027_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "itodd_obj_000028_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/itodd/itodd_obj_000028/itodd_obj_000028_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "jimu_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/jimu/jimu_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_BakingSoda_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_BakingSoda_scaled/kit_BakingSoda_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_BakingVanilla_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_BakingVanilla_scaled/kit_BakingVanilla_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_BathDetergent_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_BathDetergent_scaled/kit_BathDetergent_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_ChocoIcing_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_ChocoIcing_scaled/kit_ChocoIcing_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_ChocolateBars_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_ChocolateBars_scaled/kit_ChocolateBars_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_CleaningCloths_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_CleaningCloths_scaled/kit_CleaningCloths_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_CoffeeCookies_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_CoffeeCookies_scaled/kit_CoffeeCookies_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_CokePlasticLarge_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_CokePlasticLarge_scaled/kit_CokePlasticLarge_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_Deodorant_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_Deodorant_scaled/kit_Deodorant_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_DropsCherry_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_DropsCherry_scaled/kit_DropsCherry_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_Fish_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_Fish_scaled/kit_Fish_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_Heart1_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_Heart1_scaled/kit_Heart1_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_HeringTin_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_HeringTin_scaled/kit_HeringTin_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_HygieneSpray_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_HygieneSpray_scaled/kit_HygieneSpray_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_InstantSoup_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_InstantSoup_scaled/kit_InstantSoup_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_KoalaCandy_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_KoalaCandy_scaled/kit_KoalaCandy_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_LivioClassicOil_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_LivioClassicOil_scaled/kit_LivioClassicOil_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_Moon_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_Moon_scaled/kit_Moon_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_NutellaGo_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_NutellaGo_scaled/kit_NutellaGo_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_PowderedSugarMill_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_PowderedSugarMill_scaled/kit_PowderedSugarMill_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_SauceThickener_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_SauceThickener_scaled/kit_SauceThickener_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_Seal_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_Seal_scaled/kit_Seal_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_ShowerGel_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_ShowerGel_scaled/kit_ShowerGel_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_SmacksCereals_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_SmacksCereals_scaled/kit_SmacksCereals_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "kit_Sweetener_scaled_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/kit/kit_Sweetener_scaled/kit_Sweetener_scaled_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_models_obj_000005_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000005/lm_models_obj_000005_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_models_obj_000006_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000006/lm_models_obj_000006_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_models_obj_000009_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000009/lm_models_obj_000009_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_models_obj_000011_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000011/lm_models_obj_000011_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_models_obj_000013_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000013/lm_models_obj_000013_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_obj_000001_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000001/lm_obj_000001_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_obj_000002_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000002/lm_obj_000002_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_obj_000003_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000003/lm_obj_000003_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_obj_000004_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000004/lm_obj_000004_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_obj_000005_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000005/lm_obj_000005_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_obj_000006_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000006/lm_obj_000006_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_obj_000007_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000007/lm_obj_000007_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_obj_000008_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000008/lm_obj_000008_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_obj_000009_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000009/lm_obj_000009_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_obj_000010_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000010/lm_obj_000010_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_obj_000011_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000011/lm_obj_000011_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_obj_000012_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000012/lm_obj_000012_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_obj_000013_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000013/lm_obj_000013_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_obj_000014_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000014/lm_obj_000014_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "lm_obj_000015_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/lm/lm_obj_000015/lm_obj_000015_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "m274_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/m274/m274_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "mug_1_large_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/mug_1_large/mug_1_large_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "mug_1_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/mug_1/mug_1_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "niezi_new_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/niezi_new/niezi_new_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "pepsi_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/pepsi/pepsi_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "polar_bear_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/polar_bear/polar_bear_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "rabbit_bowl_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/rabbit_bowl/rabbit_bowl_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "rabbit_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/rabbit/rabbit_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "realsense_box_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/realsense_box/realsense_box_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "redbull_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/redbull/redbull_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ruapc_models_obj_000004_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/ruapc_models_obj_000004/ruapc_models_obj_000004_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ruapc_obj_000002_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ruapc/ruapc_obj_000002/ruapc_obj_000002_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ruapc_obj_000003_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ruapc/ruapc_obj_000003/ruapc_obj_000003_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ruapc_obj_000005_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ruapc/ruapc_obj_000005/ruapc_obj_000005_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ruapc_obj_000006_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ruapc/ruapc_obj_000006/ruapc_obj_000006_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ruapc_obj_000007_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ruapc/ruapc_obj_000007/ruapc_obj_000007_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ruapc_obj_000008_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ruapc/ruapc_obj_000008/ruapc_obj_000008_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ruapc_obj_000010_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ruapc/ruapc_obj_000010/ruapc_obj_000010_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ruapc_obj_000011_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ruapc/ruapc_obj_000011/ruapc_obj_000011_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ruapc_obj_000012_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ruapc/ruapc_obj_000012/ruapc_obj_000012_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ruapc_obj_000014_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ruapc/ruapc_obj_000014/ruapc_obj_000014_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "small_plate_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/small_plate/small_plate_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "sugar_box_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/sugar_box/sugar_box_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tea_can1_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/tea_can1/tea_can1_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured27_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured27/textured27_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured28_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured28/textured28_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured29_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured29/textured29_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured31_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured31/textured31_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured34_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured34/textured34_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured36_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured36/textured36_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured37_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured37/textured37_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured38_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured38/textured38_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured40_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured40/textured40_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured42_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured42/textured42_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured43_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured43/textured43_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured44_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured44/textured44_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured47_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured47/textured47_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured49_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured49/textured49_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured4_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured4/textured4_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured51_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured51/textured51_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured54_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured54/textured54_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured55_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured55/textured55_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured57_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured57/textured57_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured58_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured58/textured58_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured59_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured59/textured59_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured60_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured60/textured60_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured65_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured65/textured65_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured66_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured66/textured66_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured72_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured72/textured72_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured73_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured73/textured73_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured77_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured77/textured77_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured78_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured78/textured78_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured79_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured79/textured79_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured80_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured80/textured80_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured81_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured81/textured81_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured83_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured83/textured83_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured85_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured85/textured85_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured86_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured86/textured86_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "textured87_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/textured87/textured87_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_models_obj_000014_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000014/tless_models_obj_000014_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_models_obj_000030_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000030/tless_models_obj_000030_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000001_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000001/tless_obj_000001_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000002_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000002/tless_obj_000002_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000003_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000003/tless_obj_000003_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000004_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000004/tless_obj_000004_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000005_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000005/tless_obj_000005_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000006_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000006/tless_obj_000006_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000007_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000007/tless_obj_000007_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000008_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000008/tless_obj_000008_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000009_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000009/tless_obj_000009_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000010_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000010/tless_obj_000010_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000011_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000011/tless_obj_000011_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000012_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000012/tless_obj_000012_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000013_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000013/tless_obj_000013_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000014_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000014/tless_obj_000014_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000015_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000015/tless_obj_000015_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000016_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000016/tless_obj_000016_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000017_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000017/tless_obj_000017_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000018_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000018/tless_obj_000018_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000019_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000019/tless_obj_000019_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000020_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000020/tless_obj_000020_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000021_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000021/tless_obj_000021_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000022_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000022/tless_obj_000022_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000023_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000023/tless_obj_000023_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000024_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000024/tless_obj_000024_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000025_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000025/tless_obj_000025_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000026_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000026/tless_obj_000026_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000027_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000027/tless_obj_000027_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000028_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000028/tless_obj_000028_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000029_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000029/tless_obj_000029_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tless_obj_000030_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tless/tless_obj_000030/tless_obj_000030_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tudl_models_obj_000003_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tudl/tudl_obj_000003/tudl_models_obj_000003_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tudl_obj_000001_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tudl/tudl_obj_000001/tudl_obj_000001_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tudl_obj_000002_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tudl/tudl_obj_000002/tudl_obj_000002_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tudl_obj_000003_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tudl/tudl_obj_000003/tudl_obj_000003_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000001_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000001/tyol_obj_000001_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000002_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000002/tyol_obj_000002_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000003_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000003/tyol_obj_000003_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000004_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000004/tyol_obj_000004_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000005_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000005/tyol_obj_000005_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000006_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000006/tyol_obj_000006_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000007_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000007/tyol_obj_000007_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000008_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000008/tyol_obj_000008_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000009_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000009/tyol_obj_000009_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000010_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000010/tyol_obj_000010_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000011_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000011/tyol_obj_000011_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000012_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000012/tyol_obj_000012_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000013_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000013/tyol_obj_000013_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000014_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000014/tyol_obj_000014_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000015_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000015/tyol_obj_000015_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000016_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000016/tyol_obj_000016_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000017_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000017/tyol_obj_000017_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000018_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000018/tyol_obj_000018_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000019_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000019/tyol_obj_000019_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000020_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000020/tyol_obj_000020_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "tyol_obj_000021_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/tyol/tyol_obj_000021/tyol_obj_000021_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "wooden_cup1_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/wooden_cup1/wooden_cup1_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "wooden_cup2_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/wooden_cup2/wooden_cup2_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "wooden_cup3_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/thu_models/wooden_cup3/wooden_cup3_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "wrench_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/others/wrench/wrench_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_002_master_chef_can_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_002_master_chef_can/ycb_002_master_chef_can_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_003_cracker_box_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_003_cracker_box/ycb_003_cracker_box_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_004_sugar_box_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_004_sugar_box/ycb_004_sugar_box_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_005_tomato_soup_can_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_005_tomato_soup_can/ycb_005_tomato_soup_can_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_006_mustard_bottle_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_006_mustard_bottle/ycb_006_mustard_bottle_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_007_tuna_fish_can_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_007_tuna_fish_can/ycb_007_tuna_fish_can_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_008_pudding_box_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_008_pudding_box/ycb_008_pudding_box_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_009_gelatin_box_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_009_gelatin_box/ycb_009_gelatin_box_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_010_potted_meat_can_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_010_potted_meat_can/ycb_010_potted_meat_can_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_011_banana_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_011_banana/ycb_011_banana_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_012_strawberry_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_012_strawberry/ycb_012_strawberry_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_013_apple_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_013_apple/ycb_013_apple_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_014_lemon_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_014_lemon/ycb_014_lemon_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_015_peach_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_015_peach/ycb_015_peach_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_016_pear_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_016_pear/ycb_016_pear_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_017_orange_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_017_orange/ycb_017_orange_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_018_plum_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_018_plum/ycb_018_plum_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_019_pitcher_base_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_019_pitcher_base/ycb_019_pitcher_base_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_021_bleach_cleanser_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_021_bleach_cleanser/ycb_021_bleach_cleanser_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_025_mug_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_025_mug/ycb_025_mug_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_026_sponge_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_026_sponge/ycb_026_sponge_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_027_skillet_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_027_skillet/ycb_027_skillet_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_028_skillet_lid_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_028_skillet_lid/ycb_028_skillet_lid_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_029_plate_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_029_plate/ycb_029_plate_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_030_fork_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_030_fork/ycb_030_fork_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_031_spoon_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_031_spoon/ycb_031_spoon_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_032_knife_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_032_knife/ycb_032_knife_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_033_spatula_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_033_spatula/ycb_033_spatula_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_035_power_drill_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_035_power_drill/ycb_035_power_drill_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_036_wood_block_small_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_036_wood_block_small/ycb_036_wood_block_small_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_036_wood_block_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_036_wood_block/ycb_036_wood_block_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_037_scissors_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_037_scissors/ycb_037_scissors_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_038_padlock_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_038_padlock/ycb_038_padlock_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_040_large_marker_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_040_large_marker/ycb_040_large_marker_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_042_adjustable_wrench_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_042_adjustable_wrench/ycb_042_adjustable_wrench_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_043_phillips_screwdriver_old_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_043_phillips_screwdriver_old/ycb_043_phillips_screwdriver_old_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_043_phillips_screwdriver_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_043_phillips_screwdriver/ycb_043_phillips_screwdriver_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_044_flat_screwdriver_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_044_flat_screwdriver/ycb_044_flat_screwdriver_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_048_hammer_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_048_hammer/ycb_048_hammer_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_050_medium_clamp_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_050_medium_clamp/ycb_050_medium_clamp_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_051_large_clamp_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_051_large_clamp/ycb_051_large_clamp_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_052_extra_large_clamp_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_052_extra_large_clamp/ycb_052_extra_large_clamp_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_053_mini_soccer_ball_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_053_mini_soccer_ball/ycb_053_mini_soccer_ball_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_054_softball_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_054_softball/ycb_054_softball_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_056_tennis_ball_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_056_tennis_ball/ycb_056_tennis_ball_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_057_racquetball_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_057_racquetball/ycb_057_racquetball_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_058_golf_ball_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_058_golf_ball/ycb_058_golf_ball_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_059_chain_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_059_chain/ycb_059_chain_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_061_foam_brick_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_061_foam_brick/ycb_061_foam_brick_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_062_dice_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_062_dice/ycb_062_dice_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_063-a_marbles_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_063-a_marbles/ycb_063-a_marbles_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_065-a_cups_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_065-a_cups/ycb_065-a_cups_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_070-a_colored_wood_blocks_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_070-a_colored_wood_blocks/ycb_070-a_colored_wood_blocks_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_071_nine_hole_peg_test_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_071_nine_hole_peg_test/ycb_071_nine_hole_peg_test_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_072-a_toy_airplane_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_072-a_toy_airplane/ycb_072-a_toy_airplane_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_072-b_toy_airplane_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_072-b_toy_airplane/ycb_072-b_toy_airplane_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_072-d_toy_airplane_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_072-d_toy_airplane/ycb_072-d_toy_airplane_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_073-a_lego_duplo_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_073-a_lego_duplo/ycb_073-a_lego_duplo_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_073-d_lego_duplo_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_073-d_lego_duplo/ycb_073-d_lego_duplo_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_077_rubiks_cube_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/ycb_077_rubiks_cube/ycb_077_rubiks_cube_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_large_002_master_chef_can_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/large_002_master_chef_can/ycb_large_002_master_chef_can_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_large_004_sugar_box_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/large_004_sugar_box/ycb_large_004_sugar_box_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_large_013_apple_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/large_013_apple/ycb_large_013_apple_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_large_018_plum_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/large_018_plum/ycb_large_018_plum_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_large_hole_box_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/large_hole_box/ycb_large_hole_box_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_large_mug_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/large_mug/ycb_large_mug_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_large_plate_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/large_plate/ycb_large_plate_vhacd.obj",
+        "object_scale": 1.0
+    },
+    "ycb_larger_mug_vhacd": {
+        "filepath": "/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured/max_less_than_20cm/ycb/larger_mug/ycb_larger_mug_vhacd.obj",
+        "object_scale": 1.0
+    }
+}

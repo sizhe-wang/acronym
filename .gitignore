@@ -1,2 +1,5 @@
 *.pyc
+data/json_output/
+.idea/
+*.egg-info/
 

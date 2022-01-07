@@ -58,7 +58,7 @@ class Scene(object):
         self.collision_manager.add_object(name=obj_id, mesh=obj_mesh, transform=pose)
 
     def _get_support_polygons(
-        self, min_area=0.01, gravity=np.array([0, 0, -1.0]), erosion_distance=0.02
+        self, min_area=0.01, gravity=np.array([0, 0, -1.0]), erosion_distance=0.1   # 0.02
     ):
         """Extract support facets by comparing normals with gravity vector and checking area.
 
@@ -129,9 +129,19 @@ class Scene(object):
         Returns:
             np.ndarray: homogeneous 4x4 matrix
         """
-        index = np.random.choice(len(stable_poses), p=stable_poses_probs)
+        # index = np.random.choice(len(stable_poses), p=stable_poses_probs)
+        # inplane_rot = tra.rotation_matrix(
+        #     angle=np.random.uniform(0, 2.0 * np.pi), direction=[0, 0, 1]
+        # )
+        # num_poses_to_choose = len(stable_poses)
+        num_poses_to_choose = min(5, len(stable_poses))
+        # probs = stable_poses_probs[:num_poses_to_choose]
+        # sum_probs_origin = np.sum(probs)
+        # probs = [(probs[i] / sum_probs_origin) for i in range(num_poses_to_choose)]
+        # index = np.random.choice(num_poses_to_choose, p=probs)
+        index = np.random.choice(num_poses_to_choose)
         inplane_rot = tra.rotation_matrix(
-            angle=np.random.uniform(0, 2.0 * np.pi), direction=[0, 0, 1]
+            angle=0, direction=[0, 0, 1]
         )
         return inplane_rot.dot(stable_poses[index])
 
@@ -324,7 +334,7 @@ class Scene(object):
 
     @classmethod
     def random_arrangement(
-        cls, object_meshes, support_mesh, distance_above_support=0.002, gaussian=None
+        cls, object_meshes, support_mesh, object_names, distance_above_support=0.001, gaussian=None
     ):
         """Generate a random scene by arranging all object meshes on any support surface of a provided support mesh.
 
@@ -338,11 +348,21 @@ class Scene(object):
             Scene: Scene representation.
         """
         s = cls()
+        # print(support_mesh)
+        # exit()
+        # support_pose = [
+        #     [1, 0, 0, 0],
+        #     [0, 1, 0, 0],
+        #     [0, 0, 1, 0.21],
+        #     [0, 0, 0, 1]
+        # ]
         s.add_object("support_object", support_mesh, pose=np.eye(4), support=True)
+        # s.add_object("support_object", support_mesh, pose=support_pose, support=True)
 
         for i, obj_mesh in enumerate(object_meshes):
             s.place_object(
-                "obj{}".format(i),
+                object_names[i],
+                #"obj{}".format(i),
                 obj_mesh,
                 distance_above_support=distance_above_support,
                 gaussian=gaussian,
@@ -351,7 +371,7 @@ class Scene(object):
         return s
 
 
-def load_mesh(filename, mesh_root_dir, scale=None):
+def load_mesh(filename, scale=None):
     """Load a mesh from a JSON or HDF5 file from the grasp dataset. The mesh will be scaled accordingly.
 
     Args:
@@ -359,23 +379,36 @@ def load_mesh(filename, mesh_root_dir, scale=None):
         scale (float, optional): If specified, use this as scale instead of value from the file. Defaults to None.
 
     Returns:
-        trimesh.Trimesh: Mesh of the loaded object.
+        [trimesh.Trimesh]: Mesh of the loaded object.
     """
+    obj_mesh_list = []
+    obj_name_list = []
+    obj_path_list = []
+    # print(filename)
+    # exit()
     if filename.endswith(".json"):
-        data = json.load(open(filename, "r"))
-        mesh_fname = data["object"].decode('utf-8')
-        mesh_scale = data["object_scale"] if scale is None else scale
-    elif filename.endswith(".h5"):
-        data = h5py.File(filename, "r")
-        mesh_fname = data["object/file"][()].decode('utf-8')
-        mesh_scale = data["object/scale"][()] if scale is None else scale
+
+        with open(filename, "r") as f:
+            dataset_dict = json.load(fp=f)
+        for key in dataset_dict:
+            mesh_fname = dataset_dict[key]["filepath"]#.decode('utf-8')
+            mesh_scale = dataset_dict[key]["object_scale"] if scale is None else scale
+            obj_mesh = trimesh.load(mesh_fname)
+            obj_mesh = obj_mesh.apply_scale(mesh_scale)
+            obj_mesh_list.append(obj_mesh)
+            obj_name_list.append(key)
+            obj_path_list.append(mesh_fname)
+    # elif filename.endswith(".h5"):
+    #     data = h5py.File(filename, "r")
+    #     mesh_fname = data["object/file"][()].decode('utf-8')
+    #     mesh_scale = data["object/scale"][()] if scale is None else scale
     else:
         raise RuntimeError("Unknown file ending:", filename)
 
-    obj_mesh = trimesh.load(os.path.join(mesh_root_dir, mesh_fname))
-    obj_mesh = obj_mesh.apply_scale(mesh_scale)
+    # obj_mesh = trimesh.load(os.path.join(mesh_root_dir, mesh_fname))
+    # obj_mesh = obj_mesh.apply_scale(mesh_scale)
 
-    return obj_mesh
+    return obj_mesh_list, obj_name_list, obj_path_list
 
 
 def load_grasps(filename):

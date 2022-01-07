@@ -34,11 +34,12 @@ import multiprocessing as mp
 import math
 import os
 import time
+import random
+from tqdm import tqdm
 
 from acronym_tools import Scene, load_mesh, load_grasps, create_gripper_marker
 
-json_file_root = '../data/json_output/non_textured'
-object_mesh_root = '/home/wsz/wei_dataset_object_models/dataset/final_dataset/non_textured'
+json_file_root = '../data/json_output/textured'
 
 
 def make_parser():
@@ -64,7 +65,7 @@ def make_parser():
     )
     parser.add_argument(
         "--num_scenes",
-        default=10000,
+        default=10,
         help="Number of scenes to create."
     )
 
@@ -101,16 +102,21 @@ def save_object_poses_of_one_scene(pose_dict, path_dict, scene_id):
     with open(json_file, 'w') as f:
         json.dump(data_dict, f, sort_keys=True, cls=NumpyEncoder, indent=4)
 
+    # with open(json_file_name, 'w') as f:
+    #     poses_dict['scene_{}'.format(secne_id)] = pose_dict
+    #     json.dump(poses_dict, f, sort_keys=True, cls=NumpyEncoder, indent=4)
+    #     f.close()
+
 
 create_sence_call_num = 0
 num_placed = 0
 '''create a scene, the objects were chosen in order of objects meshes list
 '''
 def create_scene(object_meshes, support_mesh, object_names):
-    min_objects = 2
-    max_objects = 9
     # sample random number of objects to place
     # normal distribution, sigma=2.5, mu=5
+    min_objects = 2
+    max_objects = 9
     num_objects = min(max(math.ceil(2.5 * np.random.randn() + 5), min_objects), max_objects)
     global create_sence_call_num
     global num_placed
@@ -121,6 +127,7 @@ def create_scene(object_meshes, support_mesh, object_names):
     # print("objects poses: {}".format(scene._poses))
     save_object_poses_of_one_scene(scene._poses, create_sence_call_num)
     # scene.colorize().as_trimesh_scene().show()
+    # scene.as_trimesh_scene().show()
     create_sence_call_num += 1
     num_placed += num_objects
     return scene
@@ -144,10 +151,10 @@ def create_scene_random(object_meshes, support_mesh, object_names, object_paths,
     # print("objects poses: {}".format(scene._poses))
     chosen_object_path_dict = {}
     for i in chosen_index:
-        chosen_object_path_dict[object_names[i]] = object_paths[i].replace(object_mesh_root, '')
+        chosen_object_path_dict[object_names[i]] = object_paths[i]
     chosen_object_path_dict['support_object'] = support_path
     save_object_poses_of_one_scene(scene._poses, chosen_object_path_dict, scene_idx)
-    scene.colorize().as_trimesh_scene().show()
+    scene.as_trimesh_scene().show()
     return scene
 
 
@@ -156,31 +163,36 @@ def main(argv=sys.argv[1:]):
     args = parser.parse_args(argv)
 
     # load object meshes
-    object_meshes, object_names, object_paths = load_mesh(args.objects_json)
-    support_mesh, support_name, support_path = load_mesh(
+    object_meshes, object_names = load_mesh(args.objects_json)
+    support_mesh, support_name = load_mesh(
         args.support, scale=args.support_scale
     )
     support_mesh = support_mesh[0]
     support_name = support_name[0]
-    support_path = support_path[0]
     # print('names: {}'.format(object_names))
     # print('support {} name {}'.format(support_mesh, support_name))
 
     # num_scene = math.ceil(len(object_meshes) // args.num_object_per_scene)
     # print("Creating {} scenes...".format(num_scene))
-    if not os.path.exists(json_file_root):
-        os.mkdir(json_file_root)
+    # if os.path.exists(json_file_name):
+    #     os.remove(json_file_name)
+    global num_placed
     pool = None
     if args.multiprocessing:
         pool = mp.Pool(mp.cpu_count())
-    print("num_scenes", int(args.num_scenes))
+    # print("num_scenes", int(args.num_scenes))
     # condition = (int(args.num_scenes) - create_sence_call_num * mp.cpu_count() > 0) if args.multiprocessing else (len(object_meshes) - num_placed > 0)
-    for i in range(int(args.num_scenes)):
+    # count = 0
+    # while (int(args.num_scenes) - create_sence_call_num * mp.cpu_count() > 0) if args.multiprocessing else (len(object_meshes) - num_placed > 0):
+    num_scene = 5000
+    for i in range(num_scene):
+
 
         if args.multiprocessing:
-            pool.apply_async(create_scene_random, args=(object_meshes, support_mesh, object_names, object_paths, support_path, i))
+            pool.apply_async(create_scene_random, args=(object_meshes, support_mesh, object_names, i))
         else:
-            scene = create_scene_random(object_meshes, support_mesh, object_names, object_paths, support_path, i)
+            # scene = create_scene(object_meshes, support_mesh, num_objects, object_names)
+            scene = create_scene_random(object_meshes, support_mesh, object_names, i)
         # # show the random scene in 3D viewer
         # scene.colorize().as_trimesh_scene().show()
         # condition = (int(args.num_scenes) - create_sence_call_num * mp.cpu_count() > 0) if args.multiprocessing else (
